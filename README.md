@@ -18,12 +18,13 @@ A comprehensive AI-powered video moderation system for short-form video platform
   - Quality-based selection
 
 - **Scalable Architecture**
-  - Parallel processing pipeline
+  - Parallel Video Processing Pipeline
   - FAISS vector database for similarity search
-  - Elasticsearch integration
+  
 
 - **Output and Decision Making**
   - Moderation Status: APPROVED, REJECTED, or FLAGGED
   - Moderation Level: HIGH, MEDIUM, or LOW risk assessment
   - Detailed Reports:
+  - Send for manual moderation if required
 
